@@ -58,7 +58,7 @@ Puedes usar el apartado de start y el de requerimientos.
 
 # Screens ##
 
-![Screenshot](portada.png)
+![Screenshot](screen01.png)
 
 ## :sparkles: Features ##
 
