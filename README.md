@@ -56,9 +56,9 @@ Es un proyecto para un bootcamp sobre un banco desde el front, el back y el serv
 
 Puedes usar el apartado de start y el de requerimientos.
 
-## :dart: About ##
+# Screens ##
 
-Describe your project
+![Screenshot](portada.png)
 
 ## :sparkles: Features ##
 
